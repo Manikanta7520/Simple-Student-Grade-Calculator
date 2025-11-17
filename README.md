@@ -19,7 +19,7 @@ The project focuses on fundamental programming skills, including decision-making
 ---
 
 # Technologies Used  
-- **Python 3.x**  
+- **Python 3.12**  
 - Basic input/output  
 - Conditional statements  
 
